@@ -37,7 +37,7 @@ Due to the recently released Star Wars film, "Star Wars: The Rise of Skywalker: 
 ``` 
 
 
-## Analysys
+## Analysis
 Distribution of height of Star Wars characters:
 
 ```{r, starwars-plot, fig.cap = "A density plot of heights."}
