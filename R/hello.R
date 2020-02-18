@@ -16,10 +16,3 @@
 hello <- function() {
   print("Hello, world!")
 }
-
-usethis::use_mit_license("sreeja vishaly")
-usethis::use_package("dplyr",type = "Imports",min_version = "0.8.4")
-usethis::use_vignette("My-vignette-file")
-usethis::use_readme_md()
-usethis::use_code_of_conduct()
-
