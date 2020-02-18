@@ -14,14 +14,14 @@ You can install the released version of mysimplecompedium from [CRAN](https://CR
 install.packages("mysimplecompedium")
 ```
 
-##License
+## License
 
-Text and figures: CC-BY-4.0
+Text and figures: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0)
 
-Code: See the DESCRIPTION file
+Code: See the [DESCRIPTION](DESCRIPTION) file
 
-Data: CC-0
+Data: [CC-0] (https://creativecommons.org/publicdomain/zero/1.0/)
 
-#Code of Conduct
+# Code of Conduct
 
-Please note that the 'mysimplecompedium' project is released with a Contributor Code of Conduct. By contributing to this project, you agree to abide by its terms.
+Please refer to the [Code of Conduct](CODE OF CONDUCT.MD) for more Information.
