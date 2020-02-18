@@ -24,4 +24,4 @@ Data: [CC-0] (https://creativecommons.org/publicdomain/zero/1.0/)
 
 # Code of Conduct
 
-Please refer to the [Code of Conduct](CODE OF CONDUCT.md) for more Information.
+Please refer to the [Code of Conduct](https://github.com/Sreejavm/DATA-598-WI20-week-5/blob/master/CODE_OF_CONDUCT.md) for more Information.
