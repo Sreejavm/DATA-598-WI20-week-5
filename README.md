@@ -24,4 +24,4 @@ Data: [CC-0] (https://creativecommons.org/publicdomain/zero/1.0/)
 
 # Code of Conduct
 
-Please refer to the [Code of Conduct](CODE OF CONDUCT.MD) for more Information.
+Please refer to the [Code of Conduct](CODE OF CONDUCT.md) for more Information.
